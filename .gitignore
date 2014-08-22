@@ -3,3 +3,5 @@
 .nb-gradle/profiles/private/*
 build/*
 dist/*
+/MinimalGradleEar/build/
+/MinimalGradleEjb/build/

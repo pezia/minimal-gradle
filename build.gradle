@@ -9,6 +9,7 @@ subprojects {
 
 dependencies {
     deploy project('MinimalGradleWar')
+    deploy project('MinimalGradleEjb')
 }
 
 task mergedJavadoc(type: Javadoc, description: 'Creates Javadoc from all the projects.') {
